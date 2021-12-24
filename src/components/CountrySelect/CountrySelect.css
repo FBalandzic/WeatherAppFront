@@ -1,0 +1,17 @@
+.CountrySelect {
+  width: 110px;
+  min-width: 110px;
+  margin: 0 5px;
+}
+
+.CountrySelect-flag {
+  width: 24px;
+  margin-right: 8px;
+  display: flex;
+  align-items: center;
+}
+
+.CountrySelect-option {
+  display: flex;
+  align-items: center;
+}

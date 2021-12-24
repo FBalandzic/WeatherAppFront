@@ -1,0 +1,15 @@
+.TemperatueComponent {
+  display: flex;
+  justify-content: center;
+}
+
+.TemperatueComponent-temperature {
+  font-size: 80px;
+  color: white;
+}
+
+.TemperatueComponent-temperature-C {
+  font-size: 20px;
+  vertical-align: 50px;
+  font-weight: bold;
+}

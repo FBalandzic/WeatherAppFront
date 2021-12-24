@@ -1,0 +1,21 @@
+.ForecastSearch {
+  display: flex;
+  background-color: white;
+  border-radius: 20px;
+  padding: 10px;
+  align-items: center;
+}
+
+.ForecastSearch-searchInputContainer {
+  flex: 1;
+}
+
+.ForecastSearch-Icon {
+  margin: 0 8px;
+}
+
+.ForecastSearch-Icon-icon {
+  display: block;
+  height: 32px;
+  width: auto;
+}

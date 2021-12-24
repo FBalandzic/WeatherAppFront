@@ -1,0 +1,18 @@
+.SearchInput {
+  width: 100%;
+  display: flex;
+  border-radius: 15px;
+  padding: 8px;
+  border: 2px solid whitesmoke;
+}
+
+.SearchInput-input {
+  flex: 1;
+  margin: 5px;
+  border: none;
+  outline: none;
+}
+
+.SearchInput-icon {
+  margin: auto;
+}

@@ -1,0 +1,18 @@
+.AppCenteringWrapper {
+  height: 100vh;
+  margin: 0 auto;
+  padding: 16px;
+  overflow-y: scroll;
+  display: flex;
+  background: rgb(2, 0, 36);
+  background: linear-gradient(141deg, #113786 0%, #97dbff 30%, #fa8a44 100%);
+  background-repeat: no-repeat;
+  background-size: 200%;
+  transition: background-position 750ms ease-out;
+}
+
+.AppCenteringWrapper > div {
+  width: 100%;
+  max-width: 720px;
+  margin: auto;
+}
